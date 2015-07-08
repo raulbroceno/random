@@ -1,0 +1,1 @@
+Este es un ejemplo de clonación con Git i GitHub.
